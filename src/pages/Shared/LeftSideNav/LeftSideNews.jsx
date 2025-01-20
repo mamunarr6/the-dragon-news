@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 const LeftSideNews = ({ news }) => {
   console.log(news);
   return (
@@ -11,6 +13,10 @@ const LeftSideNews = ({ news }) => {
       </div>
     </div>
   );
+};
+
+LeftSideNews.propTypes = {
+  news: PropTypes.object,
 };
 
 export default LeftSideNews;
