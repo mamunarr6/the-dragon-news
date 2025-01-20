@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "11",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_view": 1500,
+    "title": "Bangladesh Cricket Team's Road to ICC T20 World Cup 2025",
+    "author": {
+      "name": "Rafiq Ahmed",
+      "published_date": "2025-01-22 10:00:00",
+      "img": "https://i.ibb.co.com/Bangladesh-Author.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "image_url": "https://i.ibb.co.com/gZKB980/download.jpg",
+    "details": "The Bangladesh cricket team is preparing for the ICC T20 World Cup 2025 with intense training and a fresh squad lineup. With star players and promising young talents, the team aims to make a strong impact on the international stage."
+  },
+  {
+    "_id": "12",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "total_view": 1300,
+    "title": "Neymar's Future: Will He Return to European Football?",
+    "author": {
+      "name": "Lucas Silva",
+      "published_date": "2025-01-22 12:00:00",
+      "img": "https://i.ibb.co.com/Neymar-Author.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1603206070263-d3252e744dc7",
+    "image_url": "https://i.ibb.co.com/3S4S8Qh/download-4.jpg",
+    "details": "Speculations are rising about Neymar’s next move in his football career. After his successful stint in Saudi Arabia, will the Brazilian superstar return to European football? Clubs like Barcelona and PSG are reportedly interested in bringing him back."
+  },
+  {
+    "_id": "13",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "total_view": 1300,
+    "title": "Australia Clinches Another Ashes Victory in 2026",
+    "author": {
+      "name": "James Carter",
+      "published_date": "2025-01-22 10:30:00",
+      "img": "https://i.ibb.co.com/Australia-Cricket.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1531415083988-837a1a6fc5c1",
+    "image_url": "https://i.ibb.co.com/FBbw050/download-1.jpg",
+    "details": "Australia has once again asserted its dominance in Test cricket, securing a 4-1 series win over England in the Ashes 2026. Star performances from Pat Cummins and Steve Smith helped Australia lift the trophy on home soil."
+  },
+  {
+    "_id": "14",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 1800,
+    "title": "Argentina National Football Team Prepares for Copa América 2025",
+    "author": {
+      "name": "Carlos Mendoza",
+      "published_date": "2025-01-22 14:00:00",
+      "img": "https://i.ibb.co.com/Argentina-Author.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1521337581100-0a1df372e10b",
+    "image_url": "https://i.ibb.co.com/WWPVSBr/download-3.jpg",
+    "details": "The Argentina national football team is gearing up for Copa América 2025, with high expectations to defend their title. Led by key players, including Lionel Messi and emerging young stars, the team is preparing for intense competition against South America’s best teams."
+  },
+  {
+    "_id": "15",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": true
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.9, "badge": "Legendary" },
+    "total_view": 2000,
+    "title": "Lionel Messi Breaks Another Record in 2025",
+    "author": {
+      "name": "Daniel Martinez",
+      "published_date": "2025-01-23 15:00:00",
+      "img": "https://i.ibb.co.com/Messi-Author.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1517263904808-5dc91e3e7044",
+    "image_url": "https://i.ibb.co.com/GTX1kC3/download-2.jpg",
+    "details": "Lionel Messi continues to amaze the football world, breaking yet another record in 2025. The Argentine superstar has now scored the most goals in international football history, surpassing previous records and solidifying his legacy as one of the greatest players ever."
+  },
+  {
+    "_id": "16",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "sports",
+    "rating": { "number": 4.5, "badge": "Good" },
+    "total_view": 900,
+    "title": "Historic Moment: Bangladeshi Athlete to Compete in Olympic Running Event",
+    "author": {
+      "name": "Aminul Karim",
+      "published_date": "2025-01-22 15:00:00",
+      "img": "https://i.ibb.co.com/Bangladesh-Olympics-Author.jpg"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+    "image_url": "https://i.ibb.co.com/KDkT6KB/images.jpg",
+    "details": "For the first time in history, a Bangladeshi runner will participate in the 100m sprint at the Olympics. This marks a significant milestone for Bangladesh's presence in global athletics. The athlete, known for his speed and dedication, has trained rigorously for this historic event."
+  }
+]
