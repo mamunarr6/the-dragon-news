@@ -4,7 +4,7 @@ import { FiShare2 } from "react-icons/fi";
 import { Link } from "react-router";
 
 const HomeNews = ({ news }) => {
-  const { author, details, title, image_url, rating, total_view } = news;
+  const { _id, author, details, title, image_url, rating, total_view } = news;
   console.log("home news", news, author);
   return (
     <div className="card bg-base-100 border border-t-0 rounded-sm mb-5">
@@ -37,8 +37,10 @@ const HomeNews = ({ news }) => {
       </figure>
       <div className="card-body items-center">
         <p>
-          {details}{" "}
-          <Link className="text-orange-500 font-medium">Read More</Link>
+          {details.slice(0, 305)}{" "}
+          <Link to={`/news/${_id}`} className="text-orange-500 font-medium">
+            Read More
+          </Link>
         </p>
         <div className="divider"></div>
         {/* rating and view section */}
