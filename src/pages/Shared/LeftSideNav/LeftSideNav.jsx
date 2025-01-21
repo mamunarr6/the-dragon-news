@@ -10,10 +10,9 @@ const LeftSideNav = () => {
       .then((data) => setCategories(data));
   }, []);
   const news = useLoaderData();
-  console.log(categories);
   return (
     <div>
-      <h2 className="text-[#403F3F] text-xl font-semibold p-3 pl-0">
+      <h2 className="text-[#403F3F] text-xl font-semibold p-3 pl-2">
         All Categories
       </h2>
       {/* Category of all news */}

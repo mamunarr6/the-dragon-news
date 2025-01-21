@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 
 const LeftSideNews = ({ news }) => {
-  console.log(news);
   return (
     <div className="card card-compact bg-base-100">
       <figure>
